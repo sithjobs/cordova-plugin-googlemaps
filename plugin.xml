@@ -230,7 +230,7 @@
     <framework src="src/android/frameworks/pgm-custom.gradle" custom="true" type="gradleReference"/>
 
     <config-file target="AndroidManifest.xml" parent="/manifest/application">
-      <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyD970xV-Eof1bcRi022O2SSpnq8sHV_bqc"/>
+      <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyC7A4FwURAmOwExqw5viWz5WH4gMyA8kiA"/>
       <!-- Google Play Services SDK -->
       <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
       <!-- for Android 9 or above -->
